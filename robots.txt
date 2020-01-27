@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reereelei.lasperduta.com/sitemap.xml
